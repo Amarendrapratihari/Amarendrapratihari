@@ -1,3 +1,4 @@
+![logo](https://github.com/Amarendrapratihari/Amarendrapratihari/blob/main/1671175849659.jpg)
 <h1 align="center">Hi 👋, I'm Amarendra Pratihari</h1>
 <h3 align="center">A passionate FULL STACK DEVELOPER.</h3>
 
