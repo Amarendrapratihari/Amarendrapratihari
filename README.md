@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Amarendra Pratihari</h1>
 <h3 align="center">A passionate FULL STACK DEVELOPER.</h3>
 
-<img align= "right" alt="coding" width="400" src=![image](https://user-images.githubusercontent.com/116885674/208045552-5657e1a3-d8f0-4266-804d-c21e9017cff1.png)>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarendrapratihari&label=Profile%20views&color=0e75b6&style=flat" alt="amarendrapratihari" /> </p>
 
 - 🔭 I’m currently working on Cachatto india pvt.ltd. **EMM and MDM Project.**
