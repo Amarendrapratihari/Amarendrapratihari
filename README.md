@@ -3,10 +3,10 @@
 <h3 align="center">A passionate FULL STACK DEVELOPER.</h3>
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarendrapratihari&label=Profile%20views&color=0e75b6&style=flat" alt="amarendrapratihari" /> </p>
-<p >@Problem Solver || @Programmer || @QuickLearner<br>
-Currently working as Software Engineer (Full Stack Developer) in "CACHATTO India Private Limited". 
-Seeking a beginner role to enhance and explore my technical knowledge gained at Biju Patnaik University of Technology in the four years of my Engineering Career.</p>
-- 🔭 I’m currently working on Cachatto india pvt.ltd. **EMM and MDM Project.**
+<p><b>@Problem Solver || @Programmer || @QuickLearner</b><br>
+  Currently working as <b>Software Engineer</b> (Full Stack Developer) in <b>"CACHATTO India Private Limited"</b>. 
+Seeking a beginner role to enhance and explore my technical knowledge gained at <b>Biju Patnaik University of Technology</b> in the four years of my Engineering Career.</p>
+- 🔭 I’m currently working on Cachatto india pvt.ltd. <b>--> EMM and MDM Project.</b>
 
 - 🌱 I’m currently learning **Golang.**
 
@@ -30,3 +30,4 @@ Seeking a beginner role to enhance and explore my technical knowledge gained at 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amarendrapratihari&show_icons=true&locale=en" alt="amarendrapratihari" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amarendrapratihari&" alt="amarendrapratihari" /></p>
+<p align="center"><b>"Thank You For Visiting My Github Profile."</b><p>
