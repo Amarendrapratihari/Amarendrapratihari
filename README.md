@@ -30,7 +30,7 @@ Seeking a beginner role to enhance and explore my technical knowledge gained at 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amarendrapratihari&show_icons=true&locale=en&layout=compact" alt="amarendrapratihari" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amarendrapratihari&show_icons=true&locale=en" alt="amarendrapratihari" /><img align="right" src="https://cdn.dribbble.com/users/2918596/screenshots/10001475/teamwork.gif" width="240" height="200"></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amarendrapratihari&show_icons=true&locale=en" alt="amarendrapratihari" /><img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2FSibonga%2Fcollections%2F3087261-teamwork&psig=AOvVaw0Qe6-tA9s-t48QGaC4L2sX&ust=1671278922121000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLjhv6WN_vsCFQAAAAAdAAAAABAE" width="240" height="200"></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amarendrapratihari&" alt="amarendrapratihari" /><img align="right" src="https://cdni.iconscout.com/illustration/premium/thumb/full-stack-developer-working-on-project-5248497-4403356.png" width="280" height="330"></p>
 
