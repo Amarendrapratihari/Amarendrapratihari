@@ -1,7 +1,8 @@
 ![logo](https://github.com/Amarendrapratihari/Amarendrapratihari/blob/main/1671175849659.jpg)
 <h1 align="center">Hi 👋, I'm Amarendra Pratihari</h1>
 <h3 align="center">A passionate FULL STACK DEVELOPER.</h3>
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
+
+<img align="right" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="408" height="318">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarendrapratihari&label=Profile%20views&color=0e75b6&style=flat" alt="amarendrapratihari" /> </p>
 <p><b>@Problem Solver || @Programmer || @QuickLearner</b><br>
   Currently working as <b>Software Engineer</b> (Full Stack Developer) in <b>"CACHATTO India Private Limited"</b>. 
