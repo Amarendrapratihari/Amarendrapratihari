@@ -32,6 +32,6 @@ Seeking a beginner role to enhance and explore my technical knowledge gained at 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amarendrapratihari&show_icons=true&locale=en" alt="amarendrapratihari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amarendrapratihari&" alt="amarendrapratihari" /><img align="right" src="https://cdni.iconscout.com/illustration/premium/thumb/full-stack-developer-working-on-project-5248497-4403356.png" width="380" height="330"></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amarendrapratihari&" alt="amarendrapratihari" /><img align="right" src="https://cdni.iconscout.com/illustration/premium/thumb/full-stack-developer-working-on-project-5248497-4403356.png" width="280" height="330"></p>
 
 <p align="center"><b>"Thank You For Visiting My Github Profile."</b><p>
