@@ -21,7 +21,7 @@ Seeking a beginner role to enhance and explore my technical knowledge gained at 
 <p align="left">
 <a href="https://twitter.com/amarendrapratihari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amarendrapratihari" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amarendra-pratihari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amarendra-pratihari" height="30" width="40" /></a>
-<a href="https://fb.com/Ama Ren Dra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ama Ren Dra" height="30" width="40" /></a>
+<a href="https://www.facebook.com/amaren.dra.3557?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ama Ren Dra" height="30" width="40" /></a>
 <a href="https://instagram.com/itz__amu13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz__amu13" height="30" width="40" /></a>
 </p>
 
